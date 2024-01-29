@@ -4,7 +4,7 @@
 
 ### **Project Overview**
 
-In this project, we ultilized **Tableau**  built a dynamic [Dashboards](https://public.tableau.com/views/WorldPopulation_17062634868190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to illustrate world and each continent population. In this project, we can use the filter to compare the changes in population in 2 different years. The dataset includes informations from these years: *2023, 2022, 2020, 2015, 2010, 2000, 1990, 1980 and 1970*.
+In this project, we utilized **Tableau**  built a dynamic [Dashboards](https://public.tableau.com/views/WorldPopulation_17062634868190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to illustrate world and each continent population. In this project, we can use the filter to compare the changes in population in 2 different years. The dataset includes information from these years: *2023, 2022, 2020, 2015, 2010, 2000, 1990, 1980 and 1970*.
 
 Data used was extracting from file **world_population_data** - excel file which was retrieved from [Kaggle website](https://www.kaggle.com/datasets/bhavikjikadara/world-population-statistics-2023)
 
